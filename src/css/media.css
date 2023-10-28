@@ -1,0 +1,117 @@
+@media (max-width: 768px) {
+    
+    .container .info-dad {
+        flex-direction: column;
+        width: 100%;
+        gap: 10px;
+    }
+
+    .container .logo {
+        margin-left: 125px;
+        width: 180px;
+    }
+
+    .container .info-dad .illustration {
+        max-width: 450px;
+        margin: 0 auto;
+    }
+
+    .container .info-dad .info {
+        text-align: center;
+        align-items: center;
+        gap: 25px;
+        width: 100%;
+        justify-content: center;
+        margin: 0;
+    }
+
+    .container .info-dad .info .text {
+        font-size: 2rem;
+        width: 400px;
+        opacity: 0.7;
+        line-height: 35px;
+    }
+
+    .container .info-dad .info .btn {
+        padding: 10px 90px;
+        font-size: 2rem;
+    }
+
+    .social {
+        justify-content: center;
+        margin: 0;
+        align-items: flex-end;
+        height: 10vh;
+    }
+
+}
+@media (max-width: 425px) {
+    .container .logo {
+        margin-left: 40px;
+        width: 140px;
+    }
+
+    .container .info-dad .illustration {
+        width: 300px;
+    }
+
+    .container .info-dad .info .slogan {
+    font-size: 2.4rem;
+    line-height: 3.5rem;
+    width: 310px;
+    }
+
+    .container .info-dad .info .text {
+        font-size: 1.6rem;
+        opacity: 0.7;
+        line-height: 23px;
+        width: 320px;
+    }
+
+    .container .info-dad .info .btn {
+        padding: 8px 70px;
+        font-size: 1.8rem;
+    }
+
+    .social i{
+        width: 3.5rem;
+        height: 3.5rem;
+        font-size: 1.5rem;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .container .logo {
+        padding: 20px 0px 15px 0px;
+    }
+
+    .container .info-dad .illustration {
+        max-width: 250px;
+        margin: 0 auto;
+    }
+
+    .container .info-dad .info {
+        gap: 10px;
+    }
+
+    .container .info-dad .info .slogan {
+        font-size: 2rem;
+        width: 250px;
+        }
+
+        .container .info-dad .info .text {
+            font-size: 1.3rem;
+            width: 267px;
+        }
+        .container .info-dad .info .btn {
+            padding: 7px 50px;
+            font-size: 1.5rem;
+        }
+
+        .social {
+            justify-content: center;
+            align-items: flex-end;
+            height: 15vh;
+        }
+}

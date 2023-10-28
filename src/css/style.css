@@ -1,0 +1,99 @@
+html {
+    background-color: var(--primary-color-background);
+    font-size: 62.5%;
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background: url(../images/bg-desktop.svg) left center no-repeat;
+    height: 100vh;
+}
+
+.container .logo {
+    width: 21.5rem;
+    margin-left: 80px;
+    padding: 25px 0px 40px 0px;
+
+}
+
+.container .info-dad {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    width: fit-content;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container .info-dad .illustration {
+    margin-left: 80px;
+    max-width: 600px;
+}
+
+
+.container .info-dad .info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-top: 35px;
+    align-self: flex-start;
+}
+
+.container .info-dad .info .slogan {
+    font-size: 3.3rem;
+    line-height: 5rem;
+    width: 370px;
+    letter-spacing: 1.3px;
+}
+
+.container .info-dad .info .text {
+    font-size: 1.6rem;
+    margin-bottom: 18px;
+    letter-spacing: 0.5px;
+    width: 490px;
+    line-height: 23px;
+}
+
+.container .info-dad .info .btn {
+    padding: 13px 57px;
+    display: flex;
+    width: fit-content;
+    justify-content: center;
+    background-color: white;
+    color: var(--primary-color-background);
+    font-size: 1.5rem;
+    border-radius: 30px;
+    border: none;
+    -webkit-box-shadow: 3px 3px 9px 6px rgba(0,0,0,0.19);
+    -moz-box-shadow: 3px 3px 9px 6px rgba(0,0,0,0.19);
+    box-shadow: 3px 3px 9px 6px rgba(0,0,0,0.19);
+    transition: 0.3s ease-in-out;
+}
+
+.container .info-dad .info .btn:hover {
+    background-color: var(--color-hover);
+    color: #ffffff;
+}
+.social {
+    display: flex;
+    gap:1.5rem;
+    font-size:1.7rem;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+
+.social i{
+    border-radius: 50%;
+    border: 0.7px solid;
+    width: 4rem;
+    height: 4rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    transition: 0.3s ease-in-out;
+}
+.social i:hover{
+    color: var(--color-hover);
+}
+
+
+
