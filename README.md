@@ -1,7 +1,5 @@
 <h1 align="center">Huddle Landing Page</h1>
 
-Exercício *html - css avançado*, é uma landing page requerida pela quest do exercício em que precisa-se deixar o mais semelhante possivel ao design original.
-
 <p align="center">
   Exercício *html - css avançado*, é uma landing page requerida pela quest do exercício em que precisa-se deixar o mais semelhante possivel ao design original.
   <a href="https://github.com/seu-usuario/seu-projeto">
