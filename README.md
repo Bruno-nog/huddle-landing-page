@@ -11,7 +11,15 @@
 
   - HTML
   - CSS
-    
+
+## Funcionalidades
+
+Nenhuma, somente interação com botões com hover, porém não há caminho, link ou direcionamento nos botões.
+
+## Aprendizado 
+
+Este projeto teve uma dificuldade mediana para mim, porém eu demorei bastante tempo para concluilo, compreendo que meu código não está dos melhores, tentei fazer o mais fidedigno possível e ao meu ver eu obtive êxito. A parte mais complicada para mim foi o responsivo e o html, o responsivo não ficou muito bom e com o código do html fraco, atrapalhou o responsivo. Não sei se ficou tão ruim assim, tive certas dificuldades em relação a isso. 
+
 ## Instalação
 
 Forneça instruções detalhadas sobre como instalar seu projeto. Inclua os comandos necessários e informações sobre pré-requisitos, se houver.
