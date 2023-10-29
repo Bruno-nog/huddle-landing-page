@@ -4,8 +4,8 @@
   Exercício *html - css avançado*, é uma landing page requerida pela quest do exercício em que precisa-se deixar o mais semelhante possivel ao design original.
 </p>
 
-![Exemplo](./src/images/desktop-github.png)
-
+![DeskTop design](./src/images/desktop-github.png)
+![Mobile design](./src/images/mobile.gif)
 ## Tecnologias Usadas
 
   - HTML
