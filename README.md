@@ -4,8 +4,7 @@
   Exercício *html - css avançado*, é uma landing page requerida pela quest do exercício em que precisa-se deixar o mais semelhante possivel ao design original.
 </p>
 
-![DeskTop](![image](https://github.com/Bruno-nog/huddle-landing-page/assets/130010090/cc9ac6ef-38d6-4c91-899c-fbf11d29e7b8)
-)
+![DeskTop](C:\Users\bquei\OneDrive\Imagens\Capturas de tela\Captura de tela 2023-10-29 162056.png)
 
 ## Tecnologias Usadas
 
