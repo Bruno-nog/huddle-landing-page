@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/seu-usuario/seu-projeto">
-    <img src="seu-logo.png" alt="Logo do Projeto" width="200" height="200">
+    <img src="file:///C:/Users/bquei/AppData/Local/Temp/460181cd-5bd7-41c3-9dd6-53341318520f_huddle-landing-page-with-single-introductory-section-master.zip.20f/huddle-landing-page-with-single-introductory-section-master/images/logo.svg" alt="Logo do Projeto" width="200" height="200">
   </a>
 </p>
 
