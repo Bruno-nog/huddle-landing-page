@@ -8,7 +8,7 @@
 
   - HTML
   - CSS
-  - 
+    
 ## Instalação
 
 Forneça instruções detalhadas sobre como instalar seu projeto. Inclua os comandos necessários e informações sobre pré-requisitos, se houver.
