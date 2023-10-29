@@ -15,7 +15,7 @@ Forneça instruções detalhadas sobre como instalar seu projeto. Inclua os coma
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/Bruno-nog/huddle-landing-page.git
 
 # Navegue até o diretório do projeto
 cd seu-projeto
