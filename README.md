@@ -4,7 +4,7 @@
   Exercício *html - css avançado*, é uma landing page requerida pela quest do exercício em que precisa-se deixar o mais semelhante possivel ao design original.
 </p>
 
-![DeskTop](C:\Users\bquei\OneDrive\Imagens\Capturas de tela\Captura de tela 2023-10-29 162056.png)
+![Exemplo](src/images/logo.svg)
 
 ## Tecnologias Usadas
 
