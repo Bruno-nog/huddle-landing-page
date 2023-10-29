@@ -6,6 +6,7 @@
 
 ![DeskTop design](./src/images/desktop-github.png)
 ![Mobile design](./src/images/mobile.gif)
+
 ## Tecnologias Usadas
 
   - HTML
@@ -20,7 +21,7 @@ Forneça instruções detalhadas sobre como instalar seu projeto. Inclua os coma
 git clone https://github.com/Bruno-nog/huddle-landing-page.git
 
 # Navegue até o diretório do projeto
-cd seu-projeto
+cd huddle-landing-page/
 
 # Instale as dependências
 npm install
